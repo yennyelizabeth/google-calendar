@@ -1,9 +1,5 @@
 <h2 align="center"> Proyecto Ux - Rediseño - Calendario </h2> 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<BR>
 #### CONTENIDO 
 > 
 [PLAN](#plan)  
@@ -129,13 +125,3 @@ Plan de Investigación
 #### Probar 
 
 
-  
-
-[Enlace 1][1], [Enlace 2][2], [Enlace 3][3]
-
- [1]: http://joedicastro.com/consejos
- [2]: http://joedicastro.com/consejos "Consejos"
- [3]: http://joedicastro.com/
- 
- 
- <http://joedicastro.com>
