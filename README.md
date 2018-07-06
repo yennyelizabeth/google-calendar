@@ -108,6 +108,13 @@ Plan de Investigación
 
 #### Empatizar
 
+
+<p align="center">
+  <a href="">
+    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="600">
+  </a>
+</p>
+
 |   Técnicas   | Actividades  | Preguntas |  
 | ----     | ----         | ----         |
 |Experimentación | Conocer usuarios |¿Qué necesitan?|
@@ -116,11 +123,26 @@ Plan de Investigación
 |Entrevistas|   |¿Qué les disgusta?|
 |User Persons|  |¿Qué desean?|
 
-<p align="center">
-  <a href="">
-    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="450">
-  </a>
-</p>
+<br>
+
+##### Conclusiones
+
+Con respecto a los usuarios
+```sh
+- Valoran el tiempo y su administración, por lo que ofrecerles un producto fácil y simple de usar, generará incrementar su fidelización.
+- Reportan mal funcionamiento del producto en versión app.
+- Demandan mejoras en la visualización y personalización tanto en desktop y app.
+- Se incomodan cuando se realizan actualizaciones y les restan características de uso.
+```
+
+Con respecto al diseño de experiencia
+```sh
+- Se prioriza mejorar la interacción del producto con el Usuario.
+- Se mejorará la organización de los menús y submenús.
+- No se quitarán características actuales y se respetará la organización actual de menús y colores.
+- Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará posteriormente)
+- La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.
+```sh
 
 #### Definir
 #### Idear
