@@ -115,9 +115,12 @@ Plan de Investigación
 |Revisión de review|  |¿Qué les agrada?|
 |Entrevistas|   |¿Qué les disgusta?|
 |User Persons|  |¿Qué desean?|
-<br>
-![empatiza-1](https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png)
 
+<p align="center">
+  <a href="">
+    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="450">
+  </a>
+</p>
 
 #### Definir
 #### Idear
