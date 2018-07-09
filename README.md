@@ -128,6 +128,7 @@ Plan de Investigación
 ##### Conclusiones
 
 Con respecto a los usuarios
+
 ```sh
 - Valoran el tiempo y su administración, por lo que ofrecerles un producto fácil y simple de usar, generará incrementar su fidelización.
 - Reportan mal funcionamiento del producto en versión app.
