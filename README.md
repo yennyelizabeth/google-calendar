@@ -3,26 +3,22 @@
 #### CONTENIDO 
 > 
 [PLAN](#plan)  
-[PROCESO](#proceso) 
+[PROCESO](#proceso)  
 [CONCLUSIONES](#conclusiones)  
 [RECOMENDACIONES](#recomendaciones)  
-[FEEDBACK](#feedback)   
 
+
+<hr>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 #### PLAN
 > 
-Contexto
-- [Negocio](#contexto)
-- [Producto](#contexto)
-- [Usuarios](#contexto)
-- [Tecnología](#contexto)  
+Contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
 >
-Metodología
-- [Metodología](#metodología)  
+Metodología : [Design Thinking](#design thinking)  
 >
-Plan de Investigación
-- [Plan de investigación](#metodología)
+Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
+>
 
 #### Negocio
 <h5>Google LLC
@@ -40,26 +36,18 @@ Plan de Investigación
     --
     Organizar la información del mundo y hacer que sea universalmente accesible y útil.  
     
-    
-        
-<h6> Plataforma de Valor
+ <h6> Esquema de valor 
     --
-    - Usuarios
-    - Información
-    - Personal 
-    - Tecnología 
-    - Marca  
+    
+    
+|   Plataforma  | Propuesta  | Canales | 
+| ----    | ----         | ----         |
+| Usuarios   |Motor de búsqueda       |Usuarios        |
+| Información   | Publicidad     | Clientes         |        
+|Personal | Productos/Servicios (Hw/Sw)  |
+|Tecnología| |
+ | Marca |  |
 
-<h6> Propuesta de Valor
-	--
-    - Motor de búsqueda
-    - Publicidad
-    - Productos/Servicios (Hw/Sw)
-
-<h6> Canales
-	--
-    - Usuarios
-    - Clientes
 
 <h6> Objetivos Estratégicos
 	--
