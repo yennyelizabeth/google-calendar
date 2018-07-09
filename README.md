@@ -1,4 +1,6 @@
-<h2 align="center"> Proyecto Ux - Rediseño - Calendario </h2>
+<h2 align="center"> Proyecto Ux - Rediseño - ncontrar la mejor manera de mostrar un calendario en:  </h2> 
+                                <h2 align="center">  - Google Calendar - </h2> 
+
 
 #### CONTENIDO 
 > 
