@@ -146,6 +146,23 @@ Con respecto al diseño de experiencia
 ```sh  
 
 
+```
+
+
+Con respecto al diseño de experiencia
+
+```sh
+- Posibilidad de solicitar tarjeta de cuenta ahorro por banca online y banca movil 
+- Personalización en el diseño de tarjeta solicitada
+- Diseño de vistas interactivas ligeras de color y texto 
+- Diseño intuitivo
+- Navegación fácil.
+```
+
+Cualitativo                                                                                             |
+| :---------------------------------------------------------------------------------------------------: |
+
+
 
 
 
