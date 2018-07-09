@@ -1,6 +1,18 @@
-<h2 > Proyecto Ux   
-      Rediseño - Encontrar la mejor manera de mostrar un calendario en: <h2 >  - Google Calendar - </h2> 
+<h2> Rediseño, encontrar la mejor manera de mostrar un calendario en Google Calendar  </h2> 
 
+Cada día más personas llevan un ritmo de vida muy ajetreado, que es muy probable que se les olvide citas que tenían programadas. Las nuevas tecnologías nos traen los calendarios online, que son una poderosa herramienta que te permitirá programar todas los eventos para evitar que no se te pase nada importante!.
+
+<p align="center">
+<a href=""><img alt="GitPoint" title="GitPoint" src="https://std1.bebee.com/br/pb/61987/332577ad/900" width="450"> </a>
+</p>
+
+Actualmente existen muchas opciones de calendarios en línea, disponibles para usarlas desde cualquier dispositivo. Facilitando la planificación y organización del tiempo para las personas.
+
+<p align="center">
+<a href=""><img alt="GitPoint" title="GitPoint" src="https://std1.bebee.com/br/pb/61987/584e435e/900" width="280" height="200"> </a>
+<a href=""><img alt="GitPoint" title="GitPoint" src="http://www.wareable.com/media/images/2014/12/cards-for-pebble-1417524306-4kyQ-column-width-inline.jpg" width="280" height="200"></a> <a href=""><img alt="GitPoint" title="GitPoint" src="https://cdn.pixabay.com/photo/2016/11/29/07/29/calendar-1868106_960_720.jpg" width="280" height="200" > </a> 
+</p>
+<p> </p> 
 
 #### CONTENIDO   
 
@@ -54,23 +66,15 @@ Conocer el producto, para identificar las ventajas que ofrece que lo diferencian
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="100"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
-|     |      |        |    |  	Correo diario.| 
-|     |      |        |    |  	Añade localizaciones, archivos a eventos.| 	
-|     |      |        |    |  	Comparte, exporta e importa calendarios,etc.| 	
-
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="100"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  Correo diario, Añade localizaciones, archivos a eventos, Comparte, exporta e importa calendarios,etc. | 
 
 #### Usuarios
 Conociendo a los usuarios:
 
 |  Usuarios |¿Quiénes son?  | ¿Qué necesitan?   |            
 | ----    | ----   |  ----   |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://cf-cdn.gananci.com/wp-content/uploads/2015/05/Grupo-de-personas-de-todas-las-edades-sosteniendo-una-tablet-con-las-fotos-de-sus-caras-delante-de-sus-caras.jpg" width="150"> </a> | Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
-|  | Con acceso a dispositivos |    |
-|  | Con cuenta de correo  |    | |
-
-    
-
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://cf-cdn.gananci.com/wp-content/uploads/2015/05/Grupo-de-personas-de-todas-las-edades-sosteniendo-una-tablet-con-las-fotos-de-sus-caras-delante-de-sus-caras.jpg" width="200"> </a> | Todas las personas, con acceso a dispositivos ,acceso a dispositivos y cuenta de correo  |Utilizar el calendario para administrar mejor su tiempo. | 
+   
 #### Tecnología  
 
 Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
