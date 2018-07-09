@@ -143,7 +143,10 @@ Con respecto al diseño de experiencia
 - No se quitarán características actuales y se respetará la organización actual de menús y colores.
 - Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará posteriormente)
 - La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.
-```sh
+```sh  
+
+
+
 
 
 #### Definir
