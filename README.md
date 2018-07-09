@@ -146,17 +146,67 @@ Con respecto al diseño de experiencia
 ```
 
 
+#### Definir  
+
+|   Técnicas   | Actividades  | 
+| ----     | ----         | 
+|Síntesis| Identificar la experiencia de usuario en las tareas ( flujos ) |
+|User persons | Identificación de problemas clave de usuarios|
+||Identificar de oportunidades para la mejora e innovación|
+
+<br>
 
 
+Con respecto a la Experiencia de usuario
+```sh
+- Se definieron 5  tareas específicas, consideradas frecuentes y básicas para el usuario.
+- Se identificó que parte de la problemática  reside en las dificultades para realizar estas tareas.
+```
+Para el rediseño , se prioriza lo siguiente:
+```sh
+- Mejorar las opciones de menú y consulta de fechas, filtrado de calendarios y registro de eventos múltiples no periódicos.
+- Ofrecer mejoras, sin restar características actuales , es una forma de retener a los usuarios actuales.
+- Ofrecer buenas características de navegación, consultas, filtros y organización de menús es una oportunidad para atraer a nuevos usuarios.
 
+* No se prioriza en este rediseño lo siguiente:
+- La mejora de interfaz, personalización de colores, fondos , música , plus de inteligencia artificial, etc. 
+```
 
-
-
-
-
-#### Definir
 #### Idear
+<br>
+
+|   Técnicas   | Actividades  | 
+| ----     | ----         | 
+| Síntesis   |  Elaboración de propuestas  |
+| Benchmark  |  Elección de la mejor propuesta |
+
+```sh
+- Se elaboraron propuestas diversas, considerando ofrecer facilidad de uso para usuarios actuales y nuevos.
+- Se consideraron propuestas interactivas manuales, de voz y de asistente guía.
+- Se identificó la oportunidad de brindar personalización de presentación del calendario según el tipo de usuario ( nivel básico, intermedio y profesional ) para evitar su incomodidad con las actualizaciones y cambios.
+- Priorización de propuesta no muy variante para los usuarios actuales.
+```
+
+
 #### Prototipar
+
+
+|   Dispositivos  | Link | 
+| ----     | ----         | 
+| Baja Fidelidad | Papel         | 
+|    | Figma        | 
+| Alta Fidelidad   | Marvel        | 
+
+
+
+|   Dispositivos  | Link | 
+| ----     | ----         | 
+| Desktop   | https://marvelapp.com/43ig4bdhttps |
+| Desktop   | https://marvelapp.com/4c79hff/screen/44806787 |
+| App       | https://marvelapp.com/39dhb0f |
+| App       | https://marvelapp.com/395eje5/screen/44810976 |
+
+
 #### Probar 
 
 
