@@ -30,7 +30,7 @@ Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la 
 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
-|<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="350"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
+|<a href=""><img alt="GitPoint" title="GitPoint" src="https://o.aolcdn.com/images/dims3/GLOB/crop/6016x3012+0+512/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcc2046f27b9ef0689b4bf439d7e52e41%2F205448743%2Fgoogleplex-google-headquarters-with-android-figure-picture-id675079700" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
     
 Esquema de valor  
     
@@ -54,7 +54,7 @@ Conocer el producto, para identificar las ventajas que ofrece que lo diferencian
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="350"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://support.apu.edu/hc/article_attachments/115006137687/Screen_Shot_2017-02-15_at_11.45.03_AM.png" width="250"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
 |     |      |        |    |  	Correo diario.| 
 |     |      |        |    |  	Añade localizaciones, archivos a eventos.| 	
 |     |      |        |    |  	Comparte, exporta e importa calendarios,etc.| 	
