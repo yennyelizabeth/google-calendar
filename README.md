@@ -15,7 +15,7 @@
 > 
 Contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
 >
-Metodología : [Design Thinking](#design thinking)  
+Metodología : [Design Thinking](#design-thinking)  
 >
 Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
 >
@@ -39,26 +39,18 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
  <h6> Esquema de valor 
     --
     
-    
-|   Plataforma  | Propuesta  | Canales | 
-| ----    | ----         | ----         |
-| Usuarios   |Motor de búsqueda       |Usuarios        |
-| Información   | Publicidad     | Clientes         |        
-|Personal | Productos/Servicios (Hw/Sw)  |
-|Tecnología| |
- | Marca |  |
+|   Plataforma  | Propuesta  | Canales | Objetivos Estratégicos    |                
+| ----    | ----         | ----         | ----         |
+| Usuarios   |Motor de búsqueda       |Usuarios        | Retener e incrementar usuarios |
+| Información   | Publicidad     | Clientes         |    Ampliar cartera de anunciantes |    
+|Personal | Productos/Servicios (Hw/Sw) | |Mantener posicionamiento de marca | 
+|Tecnología| |                      | Diversificar productos/servicios |
+ | Marca |  || Captar personal competente e innovador |
+|    |        |          |  Contar con la mejor infraestructura de TI   |
+|    |        |          | Innovar productos/servicios                 |
+|    |        |          | Absorción de empresas |
 
-
-<h6> Objetivos Estratégicos
-	--
-    - Retener e incrementar usuarios.
-	- Ampliar cartera de anunciantes  
-	- Mantener posicionamiento de marca 
-	- Diversificar productos/servicios
-	- Captar personal competente e innovador
-	- Contar con la mejor infraestructura de TI
-	- Innovar productos/servicios
-	- Absorción de empresas
+<h6> 
 
 <br>
 
