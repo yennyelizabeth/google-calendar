@@ -65,12 +65,10 @@ Conociendo a los usuarios:
 
 |  Usuarios |¿Quiénes son?  | ¿Qué necesitan?   |            
 | ----    | ----   |  ----   |
-|   <a href=""><img alt="GitPoint" title="GitPoint" src=" https://cf-cdn.gananci.com/wp-content/uploads/2015/05/Grupo-de-personas-de-todas-las-edades-sosteniendo-una-tablet-con-las-fotos-de-sus-caras-delante-de-sus-caras.jpg" width="50"> </a>    | Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
+|   <a href=""><img alt="GitPoint" title="GitPoint" src="https://cf-cdn.gananci.com/wp-content/uploads/2015/05/Grupo-de-personas-de-todas-las-edades-sosteniendo-una-tablet-con-las-fotos-de-sus-caras-delante-de-sus-caras.jpg" width="50"> </a>    | Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
 | Con acceso a dispositivos |    |
 | Con cuenta de correo  |    | |
-    
-   
-    
+
     
 
 #### Tecnología 
