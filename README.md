@@ -1,8 +1,9 @@
-<h2 align="center"> Proyecto Ux - Rediseño - ncontrar la mejor manera de mostrar un calendario en:  </h2> 
-                                <h2 align="center">  - Google Calendar - </h2> 
+<h2 > Proyecto Ux   
+      Rediseño - Encontrar la mejor manera de mostrar un calendario en: <h2 >  - Google Calendar - </h2> 
 
 
-#### CONTENIDO 
+#### CONTENIDO   
+
 > 
 [PLAN](#plan)  
 [PROCESO](#proceso)  
@@ -11,7 +12,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <hr>
-#### PLAN
+
+#### PLAN  
+
 Elaboré un plan para dirigir las actividades del proyecto.
 
 > 
@@ -43,7 +46,8 @@ Esquema de valor
 |    |        |          | Absorción de empresas |
 
 <br>
-#### Producto 
+#### Producto  
+
 
 Conocer el producto, para identificar las ventajas que ofrece que lo diferencian de otros productos.
 
