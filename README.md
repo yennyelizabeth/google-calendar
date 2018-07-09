@@ -54,7 +54,7 @@ Conocer el producto, para identificar las ventajas que ofrece que lo diferencian
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="250"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="180"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
 |     |      |        |    |  	Correo diario.| 
 |     |      |        |    |  	Añade localizaciones, archivos a eventos.| 	
 |     |      |        |    |  	Comparte, exporta e importa calendarios,etc.| 	
