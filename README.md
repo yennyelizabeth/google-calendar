@@ -23,26 +23,9 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 #### Negocio
 
 
-|   G  | Descripción  |  Misión |  
+|   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
-|<a href=""><img alt="GitPoint" title="GitPoint" src="https://o.aolcdn.com/images/dims3/GLOB/crop/6016x3012+0+512/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcc2046f27b9ef0689b4bf439d7e52e41%2F205448743%2Fgoogleplex-google-headquarters-with-android-figure-picture-id675079700" width="200"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
-
-
-
-<h5>Google LLC
-    --
-    Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet.
-
-<br>
-<p align="center">
-  <a href="">
-    <img alt="GitPoint" title="GitPoint" src="https://o.aolcdn.com/images/dims3/GLOB/crop/6016x3012+0+512/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcc2046f27b9ef0689b4bf439d7e52e41%2F205448743%2Fgoogleplex-google-headquarters-with-android-figure-picture-id675079700" width="450">
-  </a>
-</p>
-
-<h6> Misión
-    --
-    Organizar la información del mundo y hacer que sea universalmente accesible y útil.  
+|<a href=""><img alt="GitPoint" title="GitPoint" src="https://o.aolcdn.com/images/dims3/GLOB/crop/6016x3012+0+512/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcc2046f27b9ef0689b4bf439d7e52e41%2F205448743%2Fgoogleplex-google-headquarters-with-android-figure-picture-id675079700" width="350"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
     
  <h6> Esquema de valor 
     --
