@@ -145,6 +145,7 @@ Con respecto al diseño de experiencia
 - La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.
 ```sh
 
+
 #### Definir
 #### Idear
 #### Prototipar
