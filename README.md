@@ -12,6 +12,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 #### PLAN
+Elaboré un plan para dirigir las actividades del proyecto.
+
 > 
 Contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
 >
@@ -21,7 +23,7 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 >
 
 #### Negocio
-
+Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
@@ -46,45 +48,36 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 <br>
 
 #### Producto 
-<h5>Google Calendar  
---
-	- Línea de producto: Adm. de tiempo.  
-    - Alcance: Desktop y App (android)
-	- Versión: Gratuita
-	- Ventajas: 
-		.- Integración con gmail y otros productos google.
-    	.- Correo diario.
-        .- Añade localizaciones, archivos a eventos.
-        .- Comparte, exporta e importa calendarios,etc.
+
+Conocer el producto, para identificar las ventajas que ofrece que lo diferencian de otros productos.
+
+
+|   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
+| ----    | ----   | ----    | ----    | ----    |
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://support.apu.edu/hc/article_attachments/115006137687/Screen_Shot_2017-02-15_at_11.45.03_AM.png" width="350"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
+|     |      |        |    |  	Correo diario.| 
+|     |      |        |    |  	Añade localizaciones, archivos a eventos.| 	
+|     |      |        |    |  	Comparte, exporta e importa calendarios,etc.| 	
+
 
 #### Usuarios
-<h5> ¿Quiénes son?
---
-    - Todas las personas
-	- Con acceso a Internet  
-	- Con acceso a dispositivos  
-	- Con cuenta de correo  
+Conociendo a los usuarios:
 
-<h5> ¿Qué necesitan?
---
-	- Utilizar el calendario para administrar mejor su tiempo.
+|   ¿Quiénes son?  | ¿Qué necesitan?   |            
+| ----    | ----   |
+| Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
+| Con acceso a dispositivos |   |
+| Con cuenta de correo  |    |
     
-
 
 #### Tecnología 
 -- 
+Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
 
 #### PROCESO
 
 #### Empatizar
-
-
-<p align="center">
-  <a href="">
-    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="600">
-  </a>
-</p>
 
 |   Técnicas   | Actividades  | Preguntas |  
 | ----     | ----         | ----         |
@@ -95,6 +88,15 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 |User Persons|  |¿Qué desean?|
 
 <br>
+
+
+<p align="center">
+  <a href="">
+    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="600">
+  </a>
+</p>
+
+
 
 ##### Conclusiones
 
