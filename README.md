@@ -1,4 +1,4 @@
-<h2 align="center"> Proyecto Ux - Rediseño - Calendario </h2> 
+<h2 align="center"> Proyecto Ux - Rediseño - Calendario </h2>
 
 #### CONTENIDO 
 > 
@@ -7,10 +7,8 @@
 [CONCLUSIONES](#conclusiones)  
 [RECOMENDACIONES](#recomendaciones)  
 
-
-<hr>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+<hr>
 #### PLAN
 Elaboré un plan para dirigir las actividades del proyecto.
 
@@ -29,8 +27,7 @@ Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la 
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://o.aolcdn.com/images/dims3/GLOB/crop/6016x3012+0+512/resize/630x315!/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fcc2046f27b9ef0689b4bf439d7e52e41%2F205448743%2Fgoogleplex-google-headquarters-with-android-figure-picture-id675079700" width="350"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
     
- <h6> Esquema de valor 
-    --
+Esquema de valor  
     
 |   Plataforma  | Propuesta  | Canales | Objetivos Estratégicos    |                
 | ----    | ----         | ----         | ----         |
@@ -43,10 +40,7 @@ Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la 
 |    |        |          | Innovar productos/servicios                 |
 |    |        |          | Absorción de empresas |
 
-<h6> 
-
 <br>
-
 #### Producto 
 
 Conocer el producto, para identificar las ventajas que ofrece que lo diferencian de otros productos.
@@ -74,6 +68,7 @@ Conociendo a los usuarios:
 -- 
 Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
+<hr>
 
 #### PROCESO
 
