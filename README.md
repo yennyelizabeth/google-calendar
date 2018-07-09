@@ -46,15 +46,15 @@ Esquema de valor
 |    |        |          | Absorción de empresas |
 
 <br>
-#### Producto  
+<br>
 
-
+#### Producto
 Conocer el producto, para identificar las ventajas que ofrece que lo diferencian de otros productos.
-
+<br>
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="180"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="150"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google.  | 
 |     |      |        |    |  	Correo diario.| 
 |     |      |        |    |  	Añade localizaciones, archivos a eventos.| 	
 |     |      |        |    |  	Comparte, exporta e importa calendarios,etc.| 	
@@ -63,11 +63,14 @@ Conocer el producto, para identificar las ventajas que ofrece que lo diferencian
 #### Usuarios
 Conociendo a los usuarios:
 
-|   ¿Quiénes son?  | ¿Qué necesitan?   |            
-| ----    | ----   |
-| Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
-| Con acceso a dispositivos |   |
-| Con cuenta de correo  |    |
+|  Usuarios |¿Quiénes son?  | ¿Qué necesitan?   |            
+| ----    | ----   |  ----   |
+|   <a href=""><img alt="GitPoint" title="GitPoint" src=" https://cf-cdn.gananci.com/wp-content/uploads/2015/05/Grupo-de-personas-de-todas-las-edades-sosteniendo-una-tablet-con-las-fotos-de-sus-caras-delante-de-sus-caras.jpg" width="50"> </a>    | Todas las personas |Utilizar el calendario para administrar mejor su tiempo.  |
+| Con acceso a dispositivos |    |
+| Con cuenta de correo  |    | |
+    
+   
+    
     
 
 #### Tecnología 
