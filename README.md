@@ -14,8 +14,11 @@ Actualmente existen muchas opciones de calendarios en línea, disponibles para u
 </p>
 <p> </p> 
 
-#### CONTENIDO   
+Reto : Rediseño del Google Calendar para lograr la mejor forma de mostrar el calendario
+<hr>
 
+#### CONTENIDO 
+ac
 > 
 [PLAN](#plan)  
 [PROCESO](#proceso)  
@@ -38,17 +41,16 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 >
 
 #### Negocio
-Conociendo el negocio para conocer su misión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
+Conociendo el negocio
 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
  
 Se identificó que su esquema de valor consta de:  
-Una plataforma que incluye: usuarios, información, personal, tecnología y marca.  
-Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).
-Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
-
+- Una plataforma que incluye: usuarios, información, personal, tecnología y marca. 
+- Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).  
+- Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
 <br>
 
 #### Producto
@@ -68,7 +70,7 @@ Conociendo a los usuarios:
    
 #### Tecnología  
 
-Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
+- Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
 <p> </p>
 
@@ -79,9 +81,8 @@ Google cuenta con una de las mejoras plataformas de tecnología, personal multid
 
 #### Empatizar
 
-Con la finalidad de conocer a los usuarios,  
-se utilizaron Las técnicas de : Experimentación, encuestas , revisión de review, entrevistas, user Persons.  
-Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
+- Con la finalidad de conocer a los usuarios, se utilizaron Las técnicas de : Experimentación, encuestas , revisión de review, entrevistas, user Persons.  
+- Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
 
 <p> </p>
  Se obtuvieron las siguientes conclusiones:
