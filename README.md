@@ -1,4 +1,4 @@
-<h2> Rediseño, encontrar la mejor manera de mostrar un calendario en Google Calendar  </h2> 
+<h2> Encontrar la mejor manera de mostrar un calendario en Google Calendar  </h2> 
 
 Cada día más personas llevan un ritmo de vida muy ajetreado, que es muy probable que se les olvide las citas que tenían programadas o que lleguen tarde. Las nuevas tecnologías nos traen los calendarios online, que son una poderosa herramienta que te permitirá programar todas los eventos para evitar que no se te pase nada importante!.
 
@@ -137,7 +137,45 @@ Se elaboró el diseño de interacción utilizando marvel.
 
 
 #### Probar 
-Se realizaron las pruebas con usuarios, y se encontraron las siguientes conclusiones:
+
+
+Se testeó los prototipos con 3 personas, se trabajó con la vista “por día” , se les planteó resolver 5 puntos:
+
+Ubicar la fecha 01/02/2019
+Navegar por meses
+Navegar por  años
+¿Cómo filtraría calendarios?
+¿Cómo registraría webinars múltiples no periódicos?
+
+* Desktop 
+Conclusiones
+- Para los usuarios actuales, las nuevas opciones aportan a la facilidad de uso.
+- Para usuarios potenciales, cumplieron las tareas asignadas en el 2do y 3er intento.
+
+Feedback
+- Mejorar visualización de las opciones para que llamen a la acción.
+- Mejorar la interfaz, el fondo blanco, gris y líneas tenues dificultan la experiencia del usuario.
+
+* App
+
+Conclusiones
+- Ir a la fecha específica fue una tarea sencilla de completar
+- Agrado por la organización del menú vertical.
+- Dificultad para crear eventos, reside en leer mucho texto.
+
+Feedback
+- Posibilidad de personalizar fondos.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
