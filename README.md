@@ -1,12 +1,12 @@
 <h2> Rediseño, encontrar la mejor manera de mostrar un calendario en Google Calendar  </h2> 
 
-Cada día más personas llevan un ritmo de vida muy ajetreado, que es muy probable que se les olvide citas que tenían programadas. Las nuevas tecnologías nos traen los calendarios online, que son una poderosa herramienta que te permitirá programar todas los eventos para evitar que no se te pase nada importante!.
+Cada día más personas llevan un ritmo de vida muy ajetreado, que es muy probable que se les olvide las citas que tenían programadas o que lleguen tarde. Las nuevas tecnologías nos traen los calendarios online, que son una poderosa herramienta que te permitirá programar todas los eventos para evitar que no se te pase nada importante!.
 
 <p align="center">
 <a href=""><img alt="GitPoint" title="GitPoint" src="https://std1.bebee.com/br/pb/61987/332577ad/900" width="450"> </a>
 </p>
 
-Actualmente existen muchas opciones de calendarios en línea, disponibles para usarlas desde cualquier dispositivo. Facilitando la planificación y organización del tiempo para las personas.
+Actualmente existen muchas opciones de calendarios en línea, disponibles para usarlas desde cualquier dispositivo. Facilitando la planificación y organización del tiempo.
 
 <p align="center">
 <a href=""><img alt="GitPoint" title="GitPoint" src="https://std1.bebee.com/br/pb/61987/584e435e/900" width="280" height="200"> </a>
@@ -38,27 +38,26 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 >
 
 #### Negocio
-Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
+Conociendo el negocio para conocer su misión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
  
-Se identificó el esquema de valor de Google, el cual consta de:  
-Plataforma que incluye: usuarios, información, personal, tecnología y marca.  
-La propuesta de valor: Motor de búsqueda, publicidad y productos y servicios ( basados en hardware y software).
-Sus objetivo estratético principal es : Retener e incrementar usuarios.
-    
+Se identificó que su esquema de valor consta de:  
+Una plataforma que incluye: usuarios, información, personal, tecnología y marca.  
+Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).
+Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
 
 <br>
 
 #### Producto
-Conocer el producto, para identificar las ventajas que ofrece que lo diferencian de otros productos.
+Conocer el producto, para identificar las ventajas que ofrece y que lo diferencian de otros productos.
 <br>
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="150"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  Correo diario, Añade localizaciones, archivos a eventos, Comparte, exporta e importa calendarios,etc. | 
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="150"> </a> | Administración de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  correo diario, añade localizaciones, archivos a eventos, comparte, exporta e importa calendarios,etc. | 
 
 #### Usuarios
 Conociendo a los usuarios:
@@ -81,24 +80,20 @@ Google cuenta con una de las mejoras plataformas de tecnología, personal multid
 #### Empatizar
 
 Con la finalidad de conocer a los usuarios,  
-se utilizaron Las técnicas de : Experimentación, Encuestas , Revisión de review, Entrevistas, User Persons.  
+se utilizaron Las técnicas de : Experimentación, encuestas , revisión de review, entrevistas, user Persons.  
 Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
 
 <p> </p>
  Se obtuvieron las siguientes conclusiones:
  <p> </p>
 
-
-
 |  Con respecto a los usuarios |Con respecto al diseño de experiencia  |            
 | ----    | ----   |
 |  Valoran el tiempo y su administración, por lo que ofrecerles un producto fácil y simple de usar, generará incrementar su fidelización.| Se prioriza mejorar la interacción del producto con el Usuario.|
 |  Reportan mal funcionamiento del producto en versión app. | Se mejorará la organización de los menús y submenús. | 
 | Demandan mejoras en la visualización y personalización tanto en desktop y app | No se quitarán características actuales y se respetará la organización actual de menús y colores. |
-| Se incomodan cuando se realizan actualizaciones y les restan características de uso.  |Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará posteriormente)|
+| Se incomodan cuando se realizan actualizaciones y les restan características de uso.  |Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará en la siguiente iteración)|
 | | La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.|
-
-
 
 #### Definir  
 
@@ -118,7 +113,7 @@ Para definir la problemática, se identificó la experiencia de usuario en las t
 
 Se realizaron las siguientes actividades:
 
-            
+ | Actividades |            
 | ----    | 
 | Para idear , se utilizaron las técnicas de síntesis y benchmark.| 
 | Elección de la propuesta utilizando la metodología Scamp, la opción "adaptar"|
@@ -130,23 +125,25 @@ Se realizaron las siguientes actividades:
 
 #### Prototipar
 
-
-|   Dispositivos  | Link | 
-| ----     | ----         | 
-| Baja Fidelidad | Papel         | 
-|    | Figma        | 
-| Alta Fidelidad   | Marvel        | 
+Se prototipó en baja fidelidad en papel.
+Se elaboró la interfaz utilizando figma.
+Se elaboró el diseño de interacción utilizando marvel.
 
 
-
-|   Dispositivos  | Link | 
-| ----     | ----         | 
-| Desktop   | https://marvelapp.com/43ig4bdhttps |
-| Desktop   | https://marvelapp.com/4c79hff/screen/44806787 |
-| App       | https://marvelapp.com/39dhb0f |
-| App       | https://marvelapp.com/395eje5/screen/44810976 |
+|   Dispositivos  | Iteración  | Link | 
+| ----     | ----         | ---- | 
+| Desktop   | 2 ( actual ) | https://marvelapp.com/4c79hff/screen/44806787 |
+| App       | 2 ( actual )  | https://marvelapp.com/395eje5/screen/44810976 |
 
 
 #### Probar 
+Se realizaron las pruebas con usuarios, y se encontraron las siguientes conclusiones:
+
+
+
+
+
+
+
 
 
