@@ -18,7 +18,7 @@ Reto : Rediseño del Google Calendar para lograr la mejor forma de mostrar el ca
 <hr>
 
 #### CONTENIDO 
-ac
+
 > 
 [PLAN](#plan)  
 [PROCESO](#proceso)  
@@ -32,13 +32,10 @@ ac
 
 Elaboré un plan para dirigir las actividades del proyecto.
 
-> 
-Contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
->
-Metodología : [Design Thinking](#design-thinking)  
->
-Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
->
+- Revisión del contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
+- selección de metodología : [Design Thinking](#design-thinking)  
+- Elaboración del plan de investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
+
 
 #### Negocio
 Conociendo el negocio
@@ -47,10 +44,10 @@ Conociendo el negocio
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
  
-Se identificó que su esquema de valor consta de:  
+Esquema de valor  
 - Una plataforma que incluye: usuarios, información, personal, tecnología y marca. 
 - Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).  
-- Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
+- Frente a ello tiene como objetivo estratético principal: retener e incrementar usuarios.
 <br>
 
 #### Producto
