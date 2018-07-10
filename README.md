@@ -88,22 +88,12 @@ Google cuenta con una de las mejoras plataformas de tecnología, personal multid
 
 #### Empatizar
 
-|   Técnicas   | Actividades  | Preguntas |  
-| ----     | ----         | ----         |
-|Experimentación | Conocer usuarios |¿Qué necesitan?|
-|Encuestas |   | ¿Cómo lo necesitan?|
-|Revisión de review|  |¿Qué les agrada?|
-|Entrevistas|   |¿Qué les disgusta?|
-|User Persons|  |¿Qué desean?|
+Con la finalidad de conocer a los usuarios,  
+se utilizaron Las técnicas de : Experimentación, Encuestas , Revisión de review, Entrevistas, User Persons.  
+Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
 
-<br>
-
-<a href="">
-<img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="400">
-</a>
-
-
-
+<p> </p>
+ 
 ##### Conclusiones
 
 
