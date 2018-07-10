@@ -40,19 +40,13 @@ Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitat
 #### Negocio
 Conociendo el negocio para conocer su misión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
 
-|   Google  | Descripción  |  Misión |  
-| ----     | ----         | ----         |
-|<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
- 
-Se identificó que su esquema de valor consta de:  
-Una plataforma que incluye: usuarios, información, personal, tecnología y marca.  
-Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).
-Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
-
+|   Google  | Descripción  |  Misión |  Esquema de Valor | 
+| ----     | ----         | ----         |-------  | 
+|<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |Una plataforma que incluye: usuarios, información, personal, tecnología y marca. Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software). Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.|
 <br>
 
 #### Producto
-Conocer el producto, para identificar las ventajas que ofrece y que lo diferencian de otros productos.
+
 <br>
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
@@ -60,7 +54,6 @@ Conocer el producto, para identificar las ventajas que ofrece y que lo diferenci
 | <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="150"> </a> | Administración de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  correo diario, añade localizaciones, archivos a eventos, comparte, exporta e importa calendarios,etc. | 
 
 #### Usuarios
-Conociendo a los usuarios:
 
 |  Usuarios |¿Quiénes son?  | ¿Qué necesitan?   |            
 | ----    | ----   |  ----   |
@@ -71,8 +64,6 @@ Conociendo a los usuarios:
 Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
 <p> </p>
-
-
 <hr>
 
 #### PROCESO
@@ -113,31 +104,28 @@ Para definir la problemática, se identificó la experiencia de usuario en las t
 
 Se realizaron las siguientes actividades:
 
- | Actividades |            
-| ----    | 
-| Para idear , se utilizaron las técnicas de síntesis y benchmark.| 
-| Elección de la propuesta utilizando la metodología Scamp, la opción "adaptar"|
-| Se elaboraron propuestas diversas, considerando ofrecer facilidad de uso para usuarios actuales y nuevos. |
-| Se consideraron propuestas interactivas manuales, de voz y de asistente guía.|
-| Se identificó la oportunidad de brindar personalización de presentación del calendario según el tipo de usuario ( nivel básico, intermedio y profesional ) para evitar su incomodidad con las actualizaciones y cambios. |
-| Priorización de propuesta no muy variante para los usuarios actuales.|
+- Para idear , se utilizaron las técnicas de síntesis y benchmark.| 
+- Elección de la propuesta utilizando la metodología Scamp, la opción "adaptar"|
+- Se elaboraron propuestas diversas, considerando ofrecer facilidad de uso para usuarios actuales y nuevos. |
+- Se consideraron propuestas interactivas manuales, de voz y de asistente guía.|
+- Se identificó la oportunidad de brindar personalización de presentación del calendario según el tipo de usuario ( nivel básico, intermedio y profesional ) para evitar su incomodidad con las actualizaciones y cambios. |
+- Priorización de propuesta no muy variante para los usuarios actuales.|
 
 
 #### Prototipar
 
-Se prototipó en baja fidelidad en papel.
-Se elaboró la interfaz utilizando figma.
-Se elaboró el diseño de interacción utilizando marvel.
+- Se prototipó en baja fidelidad en papel.
+- Se elaboró la interfaz utilizando figma.
+- Se elaboró el diseño de interacción utilizando marvel.
 
 
 |   Dispositivos  | Iteración  | Link | 
 | ----     | ----         | ---- | 
-| Desktop   | 2 ( actual ) | https://marvelapp.com/4c79hff/screen/44806787 |
-| App       | 2 ( actual )  | https://marvelapp.com/395eje5/screen/44810976 |
+| Desktop   | 2da | https://marvelapp.com/4c79hff/screen/44806787 |
+| App       | 2da | https://marvelapp.com/395eje5/screen/44810976 |
 
 
 #### Probar 
-
 
 Se testeó los prototipos con 3 personas, se trabajó con la vista “por día” , se les planteó resolver 5 puntos:
 
