@@ -79,6 +79,9 @@ Conociendo a los usuarios:
 
 Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
+<p> </p>
+
+
 <hr>
 
 #### PROCESO
@@ -95,12 +98,9 @@ Google cuenta con una de las mejoras plataformas de tecnología, personal multid
 
 <br>
 
-
-<p align="center">
-  <a href="">
-    <img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="600">
-  </a>
-</p>
+<a href="">
+<img alt="GitPoint" title="GitPoint" src="https://user-images.githubusercontent.com/31896385/42399949-5439b10c-8135-11e8-8e94-ae3a7dadc7cb.png" width="400">
+</a>
 
 
 
