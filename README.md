@@ -145,9 +145,12 @@ Ubicar la fecha 01/02/2019
 Navegar por meses
 Navegar por  años
 ¿Cómo filtraría calendarios?
-¿Cómo registraría webinars múltiples no periódicos?
+¿Cómo registraría webinars múltiples no periódicos
 
-* Desktop 
+<bolt>
+* Desktop  
+ </bolt>
+ 
 Conclusiones
 - Para los usuarios actuales, las nuevas opciones aportan a la facilidad de uso.
 - Para usuarios potenciales, cumplieron las tareas asignadas en el 2do y 3er intento.
@@ -156,8 +159,7 @@ Feedback
 - Mejorar visualización de las opciones para que llamen a la acción.
 - Mejorar la interfaz, el fondo blanco, gris y líneas tenues dificultan la experiencia del usuario.
 
-* App
-
+* App  
 Conclusiones
 - Ir a la fecha específica fue una tarea sencilla de completar
 - Agrado por la organización del menú vertical.
