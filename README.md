@@ -66,7 +66,7 @@ Conocer el producto, para identificar las ventajas que ofrece que lo diferencian
 
 |   Producto  | Tipo  |Alcance| Versión   |  Ventajas   |            
 | ----    | ----   | ----    | ----    | ----    |
-| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="100"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  Correo diario, Añade localizaciones, archivos a eventos, Comparte, exporta e importa calendarios,etc. | 
+| <a href=""><img alt="GitPoint" title="GitPoint" src="https://png.icons8.com/color/1600/google-calendar.png" width="150"> </a> | Adm. de tiempo | Desktop y App (android) | Gratuita | Integración con gmail y otros productos google ,  Correo diario, Añade localizaciones, archivos a eventos, Comparte, exporta e importa calendarios,etc. | 
 
 #### Usuarios
 Conociendo a los usuarios:
@@ -106,23 +106,15 @@ Google cuenta con una de las mejoras plataformas de tecnología, personal multid
 
 ##### Conclusiones
 
-Con respecto a los usuarios
 
-```sh
-- Valoran el tiempo y su administración, por lo que ofrecerles un producto fácil y simple de usar, generará incrementar su fidelización.
-- Reportan mal funcionamiento del producto en versión app.
-- Demandan mejoras en la visualización y personalización tanto en desktop y app.
-- Se incomodan cuando se realizan actualizaciones y les restan características de uso.
-```
+|  Con respecto a los usuarios |Con respecto al diseño de experiencia  |            
+| ----    | ----   |
+|  Valoran el tiempo y su administración, por lo que ofrecerles un producto fácil y simple de usar, generará incrementar su fidelización.| Se prioriza mejorar la interacción del producto con el Usuario.|
+|  Reportan mal funcionamiento del producto en versión app. | Se mejorará la organización de los menús y submenús. | 
+| Demandan mejoras en la visualización y personalización tanto en desktop y app | No se quitarán características actuales y se respetará la organización actual de menús y colores. |
+| Se incomodan cuando se realizan actualizaciones y les restan características de uso.  |Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará posteriormente)|
+| | La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.|
 
-Con respecto al diseño de experiencia
-```sh
-- Se prioriza mejorar la interacción del producto con el Usuario.
-- Se mejorará la organización de los menús y submenús.
-- No se quitarán características actuales y se respetará la organización actual de menús y colores.
-- Se requiere mejorar la visualización de las interfaces. ( No será parte del rediseño actual, se realizará posteriormente)
-- La funcionalidad es una característica urgente de resolver. ( En el rediseño no se buscará solucionarlo por no tener acceso a la inf. técnica interna del producto) y de su equipo.
-```
 
 
 #### Definir  
