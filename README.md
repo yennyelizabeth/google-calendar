@@ -14,10 +14,7 @@ Actualmente existen muchas opciones de calendarios en línea, disponibles para u
 </p>
 <p> </p> 
 
-Reto : Rediseño del Google Calendar para lograr la mejor forma de mostrar el calendario
-<hr>
-
-#### CONTENIDO 
+#### CONTENIDO   
 
 > 
 [PLAN](#plan)  
@@ -32,22 +29,26 @@ Reto : Rediseño del Google Calendar para lograr la mejor forma de mostrar el ca
 
 Elaboré un plan para dirigir las actividades del proyecto.
 
-- Revisión del contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
-- selección de metodología : [Design Thinking](#design-thinking)  
-- Elaboración del plan de investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
-
+> 
+Contexto: [Negocio](#negocio) | [Producto](#producto) | [Usuarios](#usuarios) | [Tecnología](#tecnología)  
+>
+Metodología : [Design Thinking](#design-thinking)  
+>
+Plan de Investigación : [Cuantitativo](#cuantitativo) | [Cualitativo](#cualitativo)
+>
 
 #### Negocio
-Conociendo el negocio
+Conociendo el negocio para conocer su misión, sus objetivos estratégicos y la propuesta de valor que ofrece en el mercado. 
 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
  
-Esquema de valor  
-- Una plataforma que incluye: usuarios, información, personal, tecnología y marca. 
-- Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).  
-- Frente a ello tiene como objetivo estratético principal: retener e incrementar usuarios.
+Se identificó que su esquema de valor consta de:  
+Una plataforma que incluye: usuarios, información, personal, tecnología y marca.  
+Su propuesta de valor consiste en: un motor de búsqueda, servicios de publicidad y productos/servicios ( basados en hardware y software).
+Frente a ello tiene como objetivo estratético principal: Retener e incrementar usuarios.
+
 <br>
 
 #### Producto
@@ -67,7 +68,7 @@ Conociendo a los usuarios:
    
 #### Tecnología  
 
-- Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
+Google cuenta con una de las mejoras plataformas de tecnología, personal multidisciplinario muy competente y  la característica de innovación y mejora contínua , por lo que es viable el proyecto tecnológicamente.
 
 <p> </p>
 
@@ -78,8 +79,9 @@ Conociendo a los usuarios:
 
 #### Empatizar
 
-- Con la finalidad de conocer a los usuarios, se utilizaron Las técnicas de : Experimentación, encuestas , revisión de review, entrevistas, user Persons.  
-- Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
+Con la finalidad de conocer a los usuarios,  
+se utilizaron Las técnicas de : Experimentación, encuestas , revisión de review, entrevistas, user Persons.  
+Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
 
 <p> </p>
  Se obtuvieron las siguientes conclusiones:
@@ -145,19 +147,18 @@ Navegar por  años
 ¿Cómo filtraría calendarios?
 ¿Cómo registraría webinars múltiples no periódicos
 
-<bolt>
-* Desktop  
- </bolt>
- 
+Desktop  
+
 Conclusiones
 - Para los usuarios actuales, las nuevas opciones aportan a la facilidad de uso.
-- Para usuarios potenciales, cumplieron las tareas asignadas en el 2do y 3er intento.
+- Para usuarios potenciales, cumplieron las tareas asignadas en el 2do y 3er intento.  
 
 Feedback
 - Mejorar visualización de las opciones para que llamen a la acción.
-- Mejorar la interfaz, el fondo blanco, gris y líneas tenues dificultan la experiencia del usuario.
+- Mejorar la interfaz, el fondo blanco, gris y líneas tenues dificultan la experiencia del usuario.  
 
-* App  
+App  
+
 Conclusiones
 - Ir a la fecha específica fue una tarea sencilla de completar
 - Agrado por la organización del menú vertical.
@@ -166,10 +167,33 @@ Conclusiones
 Feedback
 - Posibilidad de personalizar fondos.
 
+<hr>
 
+CONCLUSIONES
 
+- El producto Google Calendar gratuito,
+  - No se identifica al 100% con otros productos google, por diferencias ( el usuario percibe sobrecarga de contenido, desorganización,  falta de atajos , no atención de quejas , actualizaciones que restan )
 
+ - Según la observación directa, hay usuarios que se adecuan al aplicativo, y no manifiestan incomodidad, sin embargo se observa que existe un grado de dificultad en la realización de tareas.
 
+- Sobre el proceso,
+ - Utilizar la metodología ha permitido que a través de las continuas revisiones, ir definiendo mejor la problemática e ir mejorando las propuestas de rediseño, ahorrando de costos de programación.
+
+<hr>
+RECOMENDACIONES  
+
+- Sobre la investigación:
+  - Ampliar.
+  - Buscar fuentes de data analítica de uso Google Calendar 
+  - Aumentar el número de usuarios para entrevistas y  pruebas.
+  - Seleccionar más herramientas para el testing.
+  - Incluir en la investigación la opinión y feedback de personas de otras disciplinas.
+  - Listar más escenarios de uso para mejorar las priorizaciones.
+  - Revisar profundamente la arquitectura de información y contenidos
+  - Evaluar el incluir la visualización fondos, colores, tipografía, imágenes, etc.
+  - Incluir calificación de experiencia del producto.
+  - Evaluar el agregar más  iconografía , emoticones.
+  - Revisar otros productos google.
 
 
 
