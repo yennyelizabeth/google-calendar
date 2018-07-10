@@ -43,21 +43,13 @@ Conociendo el negocio para conocer su visión, sus objetivos estratégicos y la 
 |   Google  | Descripción  |  Misión |  
 | ----     | ----         | ----         |
 |<a href=""><img alt="GitPoint" title="GitPoint" src="https://journalisten.dk/files/styles/flexslider_full/public/images/logo_google_fullcolor_3x_830x271px.max-2800x2800.png?itok=gxd5H5pG" width="250"> </a> |  Es una compañía estadounidense multinacional de tecnología que se especializa en productos y servicios relacionados con Internet. | Organizar la información del mundo y hacer que sea universalmente accesible y útil.  |
+ 
+Se identificó el esquema de valor de Google, el cual consta de:  
+Plataforma que incluye: usuarios, información, personal, tecnología y marca.  
+La propuesta de valor: Motor de búsqueda, publicidad y productos y servicios ( basados en hardware y software).
+Sus objetivo estratético principal es : Retener e incrementar usuarios.
     
-Esquema de valor  
-    
-|   Plataforma  | Propuesta  | Canales | Objetivos Estratégicos    |                
-| ----    | ----         | ----         | ----         |
-| Usuarios   |Motor de búsqueda       |Usuarios        | Retener e incrementar usuarios |
-| Información   | Publicidad     | Clientes         |    Ampliar cartera de anunciantes |    
-|Personal | Productos/Servicios (Hw/Sw) | |Mantener posicionamiento de marca | 
-|Tecnología| |                      | Diversificar productos/servicios |
- | Marca |  || Captar personal competente e innovador |
-|    |        |          |  Contar con la mejor infraestructura de TI   |
-|    |        |          | Innovar productos/servicios                 |
-|    |        |          | Absorción de empresas |
 
-<br>
 <br>
 
 #### Producto
@@ -93,8 +85,9 @@ se utilizaron Las técnicas de : Experimentación, Encuestas , Revisión de revi
 Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les agrada? ¿Qué les disgusta?  ¿Qué desean?
 
 <p> </p>
- 
-##### Conclusiones
+ Se obtuvieron las siguientes conclusiones:
+ <p> </p>
+
 
 
 |  Con respecto a los usuarios |Con respecto al diseño de experiencia  |            
@@ -109,44 +102,30 @@ Respondiendo a las preguntas: ¿Qué necesitan? ¿Cómo lo necesitan? ¿Qué les
 
 #### Definir  
 
-|   Técnicas   | Actividades  | 
-| ----     | ----         | 
-|Síntesis| Identificar la experiencia de usuario en las tareas ( flujos ) |
-|User persons | Identificación de problemas clave de usuarios|
-||Identificar de oportunidades para la mejora e innovación|
+Para definir la problemática, se identificó la experiencia de usuario en las tareas ( flujos ) para identificar las dificultades que tienen los usuarios. Las técnicas utilizados fueron: la síntesis y user persons.
 
 <br>
 
-
-Con respecto a la Experiencia de usuario
-```sh
-- Se definieron 5  tareas específicas, consideradas frecuentes y básicas para el usuario.
-- Se identificó que parte de la problemática  reside en las dificultades para realizar estas tareas.
-```
-Para el rediseño , se prioriza lo siguiente:
-```sh
-- Mejorar las opciones de menú y consulta de fechas, filtrado de calendarios y registro de eventos múltiples no periódicos.
-- Ofrecer mejoras, sin restar características actuales , es una forma de retener a los usuarios actuales.
-- Ofrecer buenas características de navegación, consultas, filtros y organización de menús es una oportunidad para atraer a nuevos usuarios.
-
-* No se prioriza en este rediseño lo siguiente:
-- La mejora de interfaz, personalización de colores, fondos , música , plus de inteligencia artificial, etc. 
-```
+ | Con respecto a la Experiencia de usuario |Para el rediseño , se prioriza lo siguiente: |            
+| ----    | ----   |
+| Se definieron 5  tareas específicas, consideradas frecuentes y básicas para el usuario.|Mejorar las opciones de menú y consulta de fechas, filtrado de calendarios y registro de eventos múltiples no periódicos.|
+| Se identificó que parte de la problemática  reside en las dificultades para realizar estas tareas.    | Ofrecer mejoras, sin restar características actuales , es una forma de retener a los usuarios actuales.   |
+|    |Ofrecer buenas características de navegación, consultas, filtros y organización de menús es una oportunidad para atraer a nuevos usuarios.   |
+<br>
 
 #### Idear
 <br>
 
-|   Técnicas   | Actividades  | 
-| ----     | ----         | 
-| Síntesis   |  Elaboración de propuestas  |
-| Benchmark  |  Elección de la mejor propuesta |
+Se realizaron las siguientes actividades:
 
-```sh
-- Se elaboraron propuestas diversas, considerando ofrecer facilidad de uso para usuarios actuales y nuevos.
-- Se consideraron propuestas interactivas manuales, de voz y de asistente guía.
-- Se identificó la oportunidad de brindar personalización de presentación del calendario según el tipo de usuario ( nivel básico, intermedio y profesional ) para evitar su incomodidad con las actualizaciones y cambios.
-- Priorización de propuesta no muy variante para los usuarios actuales.
-```
+            
+| ----    | 
+| Para idear , se utilizaron las técnicas de síntesis y benchmark.| 
+| Elección de la propuesta utilizando la metodología Scamp, la opción "adaptar"|
+| Se elaboraron propuestas diversas, considerando ofrecer facilidad de uso para usuarios actuales y nuevos. |
+| Se consideraron propuestas interactivas manuales, de voz y de asistente guía.|
+| Se identificó la oportunidad de brindar personalización de presentación del calendario según el tipo de usuario ( nivel básico, intermedio y profesional ) para evitar su incomodidad con las actualizaciones y cambios. |
+| Priorización de propuesta no muy variante para los usuarios actuales.|
 
 
 #### Prototipar
