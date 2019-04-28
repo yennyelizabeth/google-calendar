@@ -1,3 +1,92 @@
+
+<!-- inicio de parte -->
+
+<h1 align="center">  </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="" title="" src="http://" width="450">
+  </a>
+</p>
+
+<p align="center">
+  GitHub in your pocket. Built with React Native.
+</p>
+
+<p align="center">
+  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
+    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  </a>
+</p>
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
+
+
+
+**Available for both iOS and Android.**
+
+<p align="center">
+  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+</p>
+
+## Features
+
+* View user activity feed
+
+
+<p align="center">
+  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+</p>
+
+<p align="center">
+  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+</p>
+
+## Feedback
+
+Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/redesign-google-calendar/issues/new). Feature requests are always welcome. 
+
+<!--If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)! -->
+
+## Contributors
+
+
+## Build Process
+
+
+## Backers 
+
+
+## Sponsors
+
+
+## Acknowledgments
+
+
+
+
+
+
+<!-- fin de parte -->
+
 <h2> Encontrar la mejor manera de mostrar un calendario en Google Calendar  </h2> 
 
 Cada día más personas llevan un ritmo de vida muy ajetreado, que es muy probable que se les olvide las citas que tenían programadas o que lleguen tarde. Las nuevas tecnologías nos traen los calendarios online, que son una poderosa herramienta que te permitirá programar todas los eventos para evitar que no se te pase nada importante!.
